@@ -4,7 +4,10 @@
 Nesse curso você vai dominar tudo do **Git** e **GitHub** _do zero ao profissional._
 
 ## Módulos:
-_Entendendo o que é **Git**, Aprendendo sobre **repositórios**, Trabalhando com **branchs**_
+* Começando com Git.
+* Aprendendo sobre branches.
+* Git avançado.
+* Usando GitHub de forma profissional.
 
 ### Rede Social:
 [Instagram](https://instagram.com/sujeitoprogramador)
