@@ -9,6 +9,11 @@ Nesse curso você vai dominar tudo do **Git** e **GitHub** _do zero ao profissio
 * Git avançado.
 * Usando GitHub de forma profissional.
 
+1. Começando com o Git.
+2. Aprendendo sobre branches.
+3. Git avançado.
+4. Usando GitHub de forma profissional.
+
 ### Rede Social:
 [Instagram](https://instagram.com/sujeitoprogramador)
 
