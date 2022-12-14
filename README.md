@@ -20,3 +20,7 @@ Nesse curso você vai dominar tudo do **Git** e **GitHub** _do zero ao profissio
 [Instagram](https://instagram.com/sujeitoprogramador)
 
 [Youtube](https://youtube.com/c/sujeitoprogramador)
+
+>Este é um blockquote, usado para destacar alguma area.
+>
+>Segunda area destacada.
